@@ -1414,9 +1414,9 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 
  「 *LIST MENU* 」  
 
-> *Follow Me On Instagram* 
-${instagram}  
-> *Bot aktif selama : ${aktif}*
+> *siganme en mi instagram* 
+${instagram} https://www.instagram.com/ariel_sovietico/
+> *Bot tiempo activo : ${aktif}*
 
 ╭════•›「 SimSimi 」 
 ├≽️ *.Bot*
@@ -1425,13 +1425,13 @@ ${instagram}
 ├ _.Bot kamu mau makan_
 ╰═══════════════  
 
-╭════•›「 ${BotName} 」 
+╭════•›「 ${ariel2-bot} 」 
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_ 
 ├≽️ *.Info*
 ├ _Jika bot bermasalah_ 
-├≽️ *.Owner*
-├ _Info Admin bot_ 
+├≽️ *.creador*
+├ https://wa.me/qr/UW6OH2OEBMUXM1
 ├≽️ *.Install*
 ├ _Tutorial install bot_ 
 ╰═══════════════  
@@ -1516,7 +1516,7 @@ ${instagram}
 ╰═══════════════  
 
 ╭════•›「 TOOlS 」 
-├≽️ *.Stiker*
+├≽️ *.Sticker*
 ├ _Kirim foto ketik .stiker_ 
 ├≽️ *.Nulis*
 ├ _Ex = .Nulis aku cinta udin_ 
